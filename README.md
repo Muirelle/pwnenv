@@ -15,11 +15,11 @@ cd ~/pwnenv
 - update pip source
 - pip
 - pwntools
-- LibcSearcher
+- [LibcSearcher](https://github.com/lieanu/LibcSearcher.git)
 - gdb
-- pwndbg
-- peda
-- one_gadget
+- [pwndbg](https://github.com/pwndbg/pwndbg)
+- [peda](https://github.com/longld/peda.git)
+- [one_gadget](https://github.com/david942j/one_gadget)
 
 
 
