@@ -4,7 +4,7 @@ Set up your ctf/pwn environment in one shot
 
 ## Usage
 ```shell
-git clone 
+git clone https://github.com/Muirelle/pwnenv ~/pwnenv
 cd ~/pwnenv
 ./pwn.sh
 ```
