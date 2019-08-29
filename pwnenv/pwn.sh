@@ -1,4 +1,4 @@
-#!/bin/bash -v
+#!/bin/bash
 
 echo "PLEASE ADD 'SUDO' BEFORE RUNNING THIS SCRIPT"
 
@@ -78,11 +78,3 @@ echo "INSTALLING ONE_GADGET"
 sudo apt -y install ruby
 
 sudo gem install one_gadget
-
-
-
-
-
-
-
-
