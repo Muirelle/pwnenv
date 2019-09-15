@@ -22,6 +22,7 @@ then
 		sudo cat /etc/apt/sources.list > /etc/apt/sources.list.bak
 		sudo cat ./16.04 > /etc/apt/sources.list
 	fi
+	echo "---------------------------UPDATE COMPLETE--------------------------------"
 fi
 
 echo "------------------------------PYTHON RELATED------------------------------------"
